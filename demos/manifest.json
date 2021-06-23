@@ -27,7 +27,7 @@
       "type": "image/png"
     }],
   "lang": "en-US",
-  "start_url": "/lesson16.html",
+  "start_url": "./lesson16.html",
   "display": "standalone",
   "background_color": "white",
   "theme_color": "white"
